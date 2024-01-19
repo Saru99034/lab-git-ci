@@ -1,4 +1,4 @@
 Enter your details below:
 
-* first_name: Sarujan
-* last_name: DENSON
+* first_name:
+* last_name: 
